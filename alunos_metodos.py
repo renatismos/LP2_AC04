@@ -38,7 +38,7 @@ class Aluno(Pessoa):
 
     def desabilita(self):
         cadastrado = False
-        print(self.cadastrado)
+        #print(self.cadastrado)
 
 
 y = Aluno("Renato", 37804343850, "09/12/1989", "rua Augusto Baer", 976334348)
